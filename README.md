@@ -12,7 +12,7 @@
 * 📚 I am currently learning **Python** and **Golang**
 * 🌱 I'm a **beginner developer**
 * 📮 You can contact me via **Telegram** in my profile
-* 🌐 I speak fluent **Russian** and **English**
+* 🌐 I am comfortable communicating in **Russian** and **English**
 
 ---
 
